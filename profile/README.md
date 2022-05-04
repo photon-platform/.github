@@ -1,5 +1,5 @@
 # PHOTON platform
-## capture • develop • publish
+## gather • process • publish
 
 - mission
 - projects
