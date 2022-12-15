@@ -1,8 +1,8 @@
-capture • process • publish
----------------------------
+gather • process • publish
+--------------------------
 
 The **PHOTON platform** is a set of tools for deploying, configuring and managing 
-systems to capture, process and publish knowledge.
+systems to gather, process and publish knowledge.
 
 The tools have been curated and customized for working on the Linux OS:`Pop!_OS`_ 
 
