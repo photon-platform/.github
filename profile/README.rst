@@ -21,7 +21,9 @@ Beyond these tools, we present:
 
 In our `.photon`_ and `.vim`_ repositories, discover PHOTON's dotfiles, provisioning scripts, vim configurations, and plugins.
 
-The **PHOTON platform** isn't a product for sale. It's an invitation to explore what can be achieved when dedication meets innovation. Led by `phi ARCHITECT`_, we're here to illuminate the path to mastering Python and Linux OS, and to redefine the joy of crafting knowledge.
+Led by `phi ARCHITECT`_, the **PHOTON platform** is one of three organizations under their management, the others being `GEOMETOR`_ and `HARMONIC resonance`_. We're not here to sell a product; instead, we're offering an invitation to explore what can be achieved when dedication meets innovation. 
+
+Visit our `PHOTON platform website`_ to further illuminate your path to mastering Python and Linux OS, and to redefine the joy of crafting knowledge.
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
 .. _`Pop!_OS`: https://pop.system76.com/
@@ -37,4 +39,7 @@ The **PHOTON platform** isn't a product for sale. It's an invitation to explore 
 .. _`ChatExtractor`: https://github.com/photon-platform/chatextractor
 .. _`.photon`: https://github.com/photon-platform/.photon
 .. _`.vim`: https://github.com/photon-platform/.vim
+.. _`PHOTON platform website`: https://photon-platform.github.io/
+.. _`GEOMETOR`: https://github.com/GEOMETOR
+.. _`HARMONIC resonance`: https://github.com/HARMONICresonance
 
