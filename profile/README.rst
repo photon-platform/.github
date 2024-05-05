@@ -1,23 +1,21 @@
 Illuminate Your Work: Gather, Process, Publish with PHOTON
 ----------------------------------------------------------
 
-Welcome to the **PHOTON platform**, a testament to the potential of open-source software and Python's versatility. Each tool within the platform is an encapsulation of knowledge and refined workflows, crafted with care to help you shine light on your work.
+Welcome to the **PHOTON platform**, it is the compendium of tools, scripts and dot files for `phi ARCHITECT`_
 
-Guided by our mission to *establish a system architecture to gather, process, and publish living digital archives*, we offer:
+This is essentially the workshop that I have been refining over the years on my journey with Linux.
+
+In our `.photon`_ and `.vim`_ repositories, discover PHOTON's dotfiles, provisioning scripts, vim configurations, and plugins.
 
 - `progenitor`_: instantiates python projects
 - `modulator`_: shapes python modules and packages.
-- `projector`_: crafts multimedia
-- `executor`_: manages todos
+- `sphinxilator`_: crafts multimedia
 - `formulator`_: constructs cli forms from yaml blueprints
 - `curator`_: maintains project archives
-- `logger`_: logs project informations
+- `logger`_: logs project information
 
-Beyond these tools, we present:
+each of these components will fit into the larger picture of the `CLERK`_, an intelligent assistant in line with the vision established by Douglas Engelbart in his 1962 paper, "Augmenting Human Intellect"
 
-- `CLERK`_: The ultimate command-line commander. CLERK directs the tools above, providing situational awareness and context-based commands.
-
-In our `.photon`_ and `.vim`_ repositories, discover PHOTON's dotfiles, provisioning scripts, vim configurations, and plugins.
 
 Led by `phi ARCHITECT`_, the **PHOTON platform** is one of three organizations under their management, the others being `GEOMETOR`_ and `HARMONIC resonance`_. We're not here to sell a product; instead, we're offering an invitation to explore what can be achieved when dedication meets innovation. 
 
@@ -28,6 +26,7 @@ Visit our `PHOTON platform website`_ to further illuminate your path to masterin
 .. _`progenitor`: https://github.com/photon-platform/progenitor
 .. _`modulator`: https://github.com/photon-platform/modulator
 .. _`projector`: https://github.com/photon-platform/projector
+.. _`sphinxilator`: https://github.com/photon-platform/sphinxilator
 .. _`executor`: https://github.com/photon-platform/executor
 .. _`formulator`: https://github.com/photon-platform/formulator
 .. _`curator`: https://github.com/photon-platform/curator
