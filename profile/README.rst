@@ -5,19 +5,17 @@ Welcome to the **PHOTON platform**, a testament to the potential of open-source 
 
 Guided by our mission to *establish a system architecture to gather, process, and publish living digital archives*, we offer:
 
-- `Progenitor`_: Sparking life into Python projects.
-- `Modulator`_: Shaping Python modules and packages.
-- `Projector`_: Illuminating project documentation.
-- `Executor`_: Structuring to-dos for efficiency.
-- `Formulator`_: Blueprinting dialogs on Textual.
-- `Curator`_: Organizing git/archive management.
-- `Condensor`_: Summarizing content with AI assistance.
-- `Memorator`_: Preserving project milestones.
+- `progenitor`_: instantiates python projects
+- `modulator`_: shapes python modules and packages.
+- `projector`_: crafts multimedia
+- `executor`_: manages todos
+- `formulator`_: constructs cli forms from yaml blueprints
+- `curator`_: maintains project archives
+- `logger`_: logs project informations
 
 Beyond these tools, we present:
 
 - `CLERK`_: The ultimate command-line commander. CLERK directs the tools above, providing situational awareness and context-based commands.
-- `ChatExtractor`_: Parsing and organizing OpenAI chat histories.
 
 In our `.photon`_ and `.vim`_ repositories, discover PHOTON's dotfiles, provisioning scripts, vim configurations, and plugins.
 
@@ -27,16 +25,14 @@ Visit our `PHOTON platform website`_ to further illuminate your path to masterin
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
 .. _`Pop!_OS`: https://pop.system76.com/
-.. _`Progenitor`: https://github.com/photon-platform/progenitor
-.. _`Modulator`: https://github.com/photon-platform/modulator
-.. _`Projector`: https://github.com/photon-platform/projector
-.. _`Executor`: https://github.com/photon-platform/executor
-.. _`Formulator`: https://github.com/photon-platform/formulator
-.. _`Curator`: https://github.com/photon-platform/curator
-.. _`Condensor`: https://github.com/photon-platform/condensor
-.. _`Memorator`: https://github.com/photon-platform/memorator
+.. _`progenitor`: https://github.com/photon-platform/progenitor
+.. _`modulator`: https://github.com/photon-platform/modulator
+.. _`projector`: https://github.com/photon-platform/projector
+.. _`executor`: https://github.com/photon-platform/executor
+.. _`formulator`: https://github.com/photon-platform/formulator
+.. _`curator`: https://github.com/photon-platform/curator
+.. _`logger`: https://github.com/photon-platform/logger
 .. _`CLERK`: https://github.com/photon-platform/clerk
-.. _`ChatExtractor`: https://github.com/photon-platform/chatextractor
 .. _`.photon`: https://github.com/photon-platform/.photon
 .. _`.vim`: https://github.com/photon-platform/.vim
 .. _`PHOTON platform website`: https://photon-platform.github.io/
