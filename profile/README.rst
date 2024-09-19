@@ -16,11 +16,10 @@ A few years ago, I shifted my R&D projects to Python. Which naturally led to dev
 - `curator`_: maintains project archives
 - `logger`_: logs project information
 
-each of these components will fit into the larger picture of the `CLERK`_, an intelligent assistant in line with the vision established by Douglas Engelbart in his 1962 paper, `Augmenting Human Intellect <https://dougengelbart.org/pubs/augment-3906-Framework.html>`_
+each of these components will fit into the larger picture of the `CLERK`_, an intelligent assistant in line with the vision established by Douglas Engelbart in his 1962 paper, `Augmenting Human Intellect <https://dougengelbart.org/pubs/augment-3906-Framework.html>`_. I see the `Textual`_ platform as critical unifying element for the user experience as well as voice interaction.
 
-**PHOTON platform** is one of three organizations under their management, the others being `GEOMETOR`_ and `HARMONIC resonance`_. We're not here to sell a product; instead, we're offering an invitation to explore what can be achieved when dedication meets innovation. 
+**PHOTON platform** is one of three organizations of  `phi ARCHITECT`_, along with `GEOMETOR`_ and `HARMONIC resonance`_. 
 
-Visit our `PHOTON platform website`_ to further illuminate your path to mastering Python and Linux OS, and to redefine the joy of crafting knowledge.
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
 .. _`Pop!_OS`: https://pop.system76.com/
@@ -38,4 +37,5 @@ Visit our `PHOTON platform website`_ to further illuminate your path to masterin
 .. _`PHOTON platform website`: https://photon-platform.github.io/
 .. _`GEOMETOR`: https://github.com/GEOMETOR
 .. _`HARMONIC resonance`: https://github.com/HARMONICresonance
+.. _`Textual`: https://textual.textualize.io/
 
