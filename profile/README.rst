@@ -1,13 +1,13 @@
 gather • process • publish
 --------------------------
 
-**PHOTON** is the compendium of tools, scripts and configurations files for me, `phi ARCHITECT`_, to assist me in accomplishing my goals.
+**PHOTON** is the compendium of tools, scripts and configurations files for me, `phi ARCHITECT`_.
 
-It's essentially the workshop that I have been refining over the years on my journey with Linux.
+It's a workshop that I have been refining over the years on my journey with Linux, to assist me in accomplishing my goals.
 
 At the heart is the `.photon`_ - containing core configurations and instantiation tools. Followed by `.vim`_ - configurations for the Vim editor.
 
-A few years ago, I shifted my R&D projects to Python. Which naturally led to developing a set of tools for managing that work. Here are just a few. 
+A few years ago, I shifted my R&D projects to Python. Which naturally led to developing a set of tools for managing that work. Here are just a few:
 
 - `progenitor`_: instantiates python projects
 - `modulator`_: shapes python modules and packages.
@@ -18,8 +18,7 @@ A few years ago, I shifted my R&D projects to Python. Which naturally led to dev
 
 each of these components will fit into the larger picture of the `CLERK`_, an intelligent assistant in line with the vision established by Douglas Engelbart in his 1962 paper, `Augmenting Human Intellect <https://dougengelbart.org/pubs/augment-3906-Framework.html>`_
 
-
-Led by `phi ARCHITECT`_, the **PHOTON platform** is one of three organizations under their management, the others being `GEOMETOR`_ and `HARMONIC resonance`_. We're not here to sell a product; instead, we're offering an invitation to explore what can be achieved when dedication meets innovation. 
+**PHOTON platform** is one of three organizations under their management, the others being `GEOMETOR`_ and `HARMONIC resonance`_. We're not here to sell a product; instead, we're offering an invitation to explore what can be achieved when dedication meets innovation. 
 
 Visit our `PHOTON platform website`_ to further illuminate your path to mastering Python and Linux OS, and to redefine the joy of crafting knowledge.
 
