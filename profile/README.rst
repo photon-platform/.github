@@ -1,7 +1,7 @@
 gather • process • publish
 --------------------------
 
-**PHOTON** is the compendium of tools, scripts and configurations files for `phi ARCHITECT`_
+**PHOTON** is the compendium of tools, scripts and configurations files for me, `phi ARCHITECT`_
 
 It is essentially the workshop that I have been refining over the years on my journey with Linux.
 
