@@ -1,9 +1,9 @@
-Illuminate Your Work: Gather, Process, Publish with PHOTON
-----------------------------------------------------------
+gather • process • publish
+--------------------------
 
-Welcome to the **PHOTON platform**, it is the compendium of tools, scripts and dot files for `phi ARCHITECT`_
+**PHOTON** is the compendium of tools, scripts and configurations files for `phi ARCHITECT`_
 
-This is essentially the workshop that I have been refining over the years on my journey with Linux.
+It is essentially the workshop that I have been refining over the years on my journey with Linux.
 
 In our `.photon`_ and `.vim`_ repositories, discover PHOTON's dotfiles, provisioning scripts, vim configurations, and plugins.
 
