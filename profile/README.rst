@@ -5,7 +5,7 @@ gather • process • publish
 
 It's a workshop that I have been refining over the years on my journey with Linux, to assist me in accomplishing my goals.
 
-At the heart is the `.photon`_ - containing core configurations and instantiation tools. Followed by `.vim`_ - configurations for the Vim editor.
+At the heart is `.photon`_ - containing core configurations and instantiation tools. Followed by `.vim`_ - configurations for the Vim editor.
 
 A few years ago, I shifted my R&D projects to Python. Which naturally led to developing a set of tools for managing that work. Here are just a few:
 
