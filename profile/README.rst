@@ -11,7 +11,7 @@ A few years ago, I shifted my R&D projects to Python. Which naturally led to dev
 
 - `progenitor`_: instantiates python projects
 - `modulator`_: shapes python modules and packages.
-- `sphinxilator`_: crafts multimedia
+- `sphinxilator`_: tools and themes for publishing with Sphinx
 - `formulator`_: constructs cli forms from yaml blueprints
 - `curator`_: maintains project archives
 - `logger`_: logs project information
